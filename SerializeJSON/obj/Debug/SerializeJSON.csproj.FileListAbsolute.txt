@@ -1,0 +1,10 @@
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\bin\Debug\SerializeJSON.exe.config
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\bin\Debug\SerializeJSON.exe
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\bin\Debug\SerializeJSON.pdb
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\obj\Debug\SerializeJSON.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\obj\Debug\SerializeJSON.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\obj\Debug\SerializeJSON.exe
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\obj\Debug\SerializeJSON.pdb
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C#\SerializeJSON\SerializeJSON\obj\Debug\SerializeJSON.csproj.CopyComplete
